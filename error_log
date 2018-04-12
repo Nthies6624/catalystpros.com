@@ -1,0 +1,2 @@
+[16-May-2016 15:58:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/inversive454/public_html/scoreboard_pull.php on line 49
+[27-Aug-2016 18:21:46 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/inversive454/public_html/scoreboard_pull.php on line 50
